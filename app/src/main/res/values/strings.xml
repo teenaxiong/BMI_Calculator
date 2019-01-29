@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">In Class 2a</string>
+    <string name="bmiTitle">Body Max Index (BMI)</string>
+    <string name="weightTitle">Weight</string>
+    <string name="lb">lb</string>
+    <string name="heightTitle">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="calculateBMIbutton">Calculate BMI</string>
+    <string name="resultValue">Result</string>
+</resources>
